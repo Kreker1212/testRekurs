@@ -1,0 +1,17 @@
+{
+    "name": "test/link",
+    "autoload": {
+        "psr-4": {
+            "TestLink\\": "Сlasses/"
+        }
+    },
+    "authors": [
+        {
+            "name": "aleksandrtislenko",
+            "email": "atislenko98@mail.ru"
+        }
+    ],
+    "require": {
+        "ext-pdo": "*"
+    }
+}
